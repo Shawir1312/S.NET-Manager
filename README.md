@@ -135,4 +135,4 @@ Halaman diagnosis ini akan menampilkan:
 ---
 
 ## 📄 Hak Cipta & Lisensi
-Proyek **S.NET Manager** merupakan hak milik pengembang atas nama **MUSHAWIR ODEGOA** (Proprietary Software). Dilarang keras mendistribusikan ulang, menjual, menyalin, atau memodifikasi sistem ini untuk tujuan komersial di luar ketentuan tanpa izin resmi.
+Proyek **S.NET Manager** merupakan hak milik pengembang atas nama **MUSHAWIR ODEGOA**. Dilarang keras mendistribusikan ulang, menjual, menyalin, atau memodifikasi sistem ini untuk tujuan komersial di luar ketentuan tanpa izin resmi.
